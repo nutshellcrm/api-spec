@@ -1,2 +1,8 @@
 # OS X
 .DS_Store
+
+# Bundler
+.bundle
+bin
+Gemfile.lock
+vendor/bundle/ruby
